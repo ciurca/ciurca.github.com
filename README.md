@@ -1,1 +1,3 @@
-# ciurca.github.com
+# Project Aggregator
+
+To be added soon...
